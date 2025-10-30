@@ -1,5 +1,7 @@
 # 🍽️ Philosophers - Problème des philosophes mangeurs
 
+<img width="196" height="168" alt="image" src="https://github.com/user-attachments/assets/3715d360-5e00-41cc-86c5-e2239a3eac01" />
+
 Le projet Philosophers consiste à simuler le célèbre problème des philosophes mangeurs en C.
 Le programme doit gérer plusieurs threads représentant des philosophes, qui alternent entre penser, manger et dormir, tout en partageant des fourchettes et en évitant les deadlocks et la famine.
 Ce projet enseigne la programmation concurrente et la synchronisation des ressources partagées.
